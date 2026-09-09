@@ -106,18 +106,6 @@ Sistema de APIs responsável por conectar os **clientes do Pinterest aos serviç
 | API                      | REST                 |
 | Responsividade           | Celular e computador |
 
-### Funcionalidades do Projeto
-
-* Upload de imagens
-* Criação de Pins
-* Exclusão de Pins
-* Criação de Boards para organização dos Pins
-* Sistema de login e cadastro
-* Busca por Pins e usuários
-* Interface responsiva para celular e computador
-
----
-
 ## Desenvolvedores
 
 Este projeto foi desenvolvido por:
